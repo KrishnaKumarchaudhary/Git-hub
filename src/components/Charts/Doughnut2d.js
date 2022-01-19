@@ -32,9 +32,9 @@ const ChartComponent = ({ data }) => {
         caption: "Star per Languages",
 
         //Set the x-axis name
-        //xAxisName: "language",
+        xAxisName: "Repos",
         //Set the y-axis name
-        // yAxisName: "Reserves (MMbbl)",
+        yAxisName: "Stars",
 
         //Set the theme for your chart
         // theme: "fusion",
